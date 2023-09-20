@@ -1,0 +1,292 @@
+# 20IS3-3-practic
+# <h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vika</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+День 1-2 [task1](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20works%201%2C%202/Web1/Web1) 
+
+День 1-2 [task2](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%201%2C%202/practice%201%2C%202.md)
+
+День 2-3 [task3](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%203%2C%204/misk/misk.md) 
+
+День 2-3 [task4](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20works%203%2C%204)
+
+День 3-4 [task5](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%205)
+
+День 5 [task6](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%206)
+
+День 7 [task7](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%207)
+
+День 8 [task8](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%208/readme.md)
+
+День 9 [task9](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%209/readdme.md)
+
+
+
+
+
+##
+##
+## Задание 1, 2
+
+### Создание первого API. Взаимодействие с API
+##
+## Тестирование метода удаления
+![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125024527/219578500-39f1603d-bf07-4f93-a443-3b43f106d24d.jpg)
+##
+![RemoveAt(10)_Succes](https://user-images.githubusercontent.com/125024527/219578510-9cb462e4-20e9-44e1-a4fc-c9dcf4aea86f.jpg)
+##
+## Тестирование метода добавления и обновления
+![Update(14, SuperCool)_Error(more_than_count)](https://user-images.githubusercontent.com/125024527/219578516-ef00edb0-271c-4bf4-9c11-0c85665dfc7d.jpg)
+##
+![Update(10, SuperCool)_Succes](https://user-images.githubusercontent.com/125024527/219578525-ab5c20ce-0a3e-4568-a32d-b8fa101a6305.jpg)
+##
+![Add](https://user-images.githubusercontent.com/125024527/219578533-c6e19e7b-7380-48b2-a142-031dea6ec9f2.jpg)
+##
+## Тестирование метода добавления и нахождения данных по индексу
+![GetAll(-1)](https://user-images.githubusercontent.com/125024527/219578538-e2642565-d2f1-4593-9ddd-9243e25e1a6b.jpg)
+##
+![GetAll(1)](https://user-images.githubusercontent.com/125024527/219578543-c5bcfd04-ce83-4c11-86e7-f9d155a473f1.jpg)
+##
+![GetAll(null)](https://user-images.githubusercontent.com/125024527/219578548-cfc12592-0eae-400e-914e-0b09c61bba00.jpg)
+##
+![GetByName](https://user-images.githubusercontent.com/125024527/219578561-e6d1e8fe-b454-4d95-a1ec-f8f9079a3e13.jpg)
+##
+![GetByIndex](https://user-images.githubusercontent.com/125024527/219578571-7a46d397-b9e1-4386-b829-7d6ee7bc15f9.jpg)
+##
+![MainMenu](https://user-images.githubusercontent.com/125024527/219578583-f8fd1496-18ec-4682-8314-82043feccccb.jpg)
+
+
+
+## Задание 3
+## Визуализация БД
+
+                   
+![image](https://user-images.githubusercontent.com/125024527/222701901-a2cced6b-f26a-430a-a795-022c65937d68.png)
+
+![image](https://user-images.githubusercontent.com/125024527/222717443-6a4272ef-7ae5-4d7a-b6e3-c60a12bb550c.png)
+
+![image](https://user-images.githubusercontent.com/125024527/222720445-1c13706f-2101-4579-bb3a-e6e29a720832.png)
+
+
+
+
+
+## Задание 4
+
+
+![1](https://user-images.githubusercontent.com/125024527/224264550-70a406ec-6cfa-4cc8-b159-2f2a9cead76b.png)
+
+![2](https://user-images.githubusercontent.com/125024527/224264613-130e99d8-b3bf-41ba-bf5a-5cc37eafdfe7.png)
+
+
+
+
+
+## Задание 6
+#### Файлы миграции
+
+
+![image](https://user-images.githubusercontent.com/125024527/230562281-254f99f9-f11c-4d35-9990-f6c917d0d6e9.png)
+
+
+![image](https://user-images.githubusercontent.com/125024527/230562297-be31a009-2236-400b-bdcd-aceca4b6702d.png)
+
+
+
+
+#### Миграция БД
+
+![image](https://user-images.githubusercontent.com/125024527/230562371-a288458f-eb12-4e4f-b517-b64f5deeb20f.png)
+
+
+![image](https://user-images.githubusercontent.com/125024527/230562380-0c4d1699-a627-4d9b-9639-b659b825c186.png)
+
+
+
+
+## Задание 7
+#### Создание и настройки .EditorConfig
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/25823bf0-b3e4-4b01-bea1-0a3867c4d45c)
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/b2ab7bce-1297-4834-915f-69bc24816677)
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/3171e231-d099-4069-8e48-57266a074838)
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/44f73a77-a3a7-4631-b3c4-e73213cab80f)
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/f72bd4aa-8965-4919-ae18-9dab14149a85)
+
+
+
+####  Знакомство с dotnet-cli. Использование команд.
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/4a2813b6-7bcb-4392-9e3e-83fa6e2fdbf5)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/416ceeb1-85ce-4d38-8e9f-d833fddd8980)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/03fc3aab-84bd-4762-8bf6-3eef89550c4b)
+
+
+
+####  Добавление пакета (библиотеки) в проект
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/e107f28a-d0cd-442f-afc8-c3eda8ad4afd)
+
+
+
+####  Проверка форматирования кода через командную строку
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/2562977f-1ead-4595-8be4-9d6bc658f1ea)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/7459ea0d-4f51-4610-b363-bfe3df603e7e)
+
+
+## GitHub Actions
+
+####  Создание .yml файла
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac7_12.png)
+
+
+
+#### Проверка работы GitHub Actions
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac7_13.png)
+
+
+
+
+
+
+## Задание 8
+
+
+
+#### Изменение метода AddSwaggerGen в Program.cs
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac8_1.png)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac8_2.png)
+
+
+
+#### Изменение метода Add в контроллере UserController
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac8_3.png)
+
+
+
+#### Добавление описания и пояснения к методу добавления пользователя
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac8_4.png)
+
+
+
+
+
+## Задание 9
+
+
+
+#### Изменение метода AddSwaggerGen в Program.cs
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/1.png)
+
+
+
+#### Добавляем класс UserServiceTest и приводим конструктор класса к следующему виду:
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/2.png)
+
+
+
+#### Подключение пакета Moq к проекту
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/3.png)
+
+
+
+
+#### Добавление проверки на null
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/4.png)
+
+
+
+
+#### Прохождение тестов
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/5.png)
+
+
+
+
+
+#### Изменение метода Create в UserService и добавление обработки на null с вызовом исключения throw new ArgumentNullException
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/6.png)
+
+
+
+
+#### Результат прохождения тестов
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/7.png)
+
+
+
+
+#### Переделываем тестовый метод
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/8.png)
+
+
+
+#### Создаём метод, который будет выдавать комбинации с невалиднымиданными пользователей
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/9.png)
+
+
+
+
+#### Прохождение тестов
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/10.png)
+
+
+
+
+
+
+#### Метод проверки успешного задания пользователя
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/12.png)
+
+
+
+
+
+#### Тестирование через dotnet-cli
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/11.png)
+
+
+
+
+#### Таким образом, мы обеспечили проверку кода и на самом GitHub-репозитории.
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/13.png)
+
+
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac8_5.png)
+
