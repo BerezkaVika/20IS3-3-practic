@@ -1,28 +1,5 @@
 # 20IS3-3-practic
 # <h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vika</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-День 1-2 [task1](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20works%201%2C%202/Web1/Web1) 
-
-День 1-2 [task2](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%201%2C%202/practice%201%2C%202.md)
-
-День 2-3 [task3](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%203%2C%204/misk/misk.md) 
-
-День 2-3 [task4](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20works%203%2C%204)
-
-День 3-4 [task5](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%205)
-
-День 5 [task6](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%206)
-
-День 7 [task7](https://github.com/BerezkaVika/20IS3-3-practic/tree/main/Practical%20work%207)
-
-День 8 [task8](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%208/readme.md)
-
-День 9 [task9](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/Practical%20works%209/readdme.md)
-
-
-
-
-
 ##
 ##
 ## Задание 1, 2
