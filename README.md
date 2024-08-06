@@ -1,11 +1,10 @@
 # 20IS3-3-practic
 # <h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Vika</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-##
-##
 ## Задание 1, 2
 
 ### Создание первого API. Взаимодействие с API
 ##
+#### Создаем публичный класс с информацией о погоде
 ## Тестирование метода удаления
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125024527/219578500-39f1603d-bf07-4f93-a443-3b43f106d24d.jpg)
 ##
