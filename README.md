@@ -30,11 +30,12 @@
 
 
 #### 1. Создаем публичный класс с информацией о погоде
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_1.png)
 
 #### 2. Создаем тестовый набор данных с подготовленными записями о погоде для изменения контроллера
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_1.png)
 #### 3. Переделываем метод из прошлой работы для вывода всех записей
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_1.png)
 #### 4. Также изменим метод вывода одной записи по индексу
 
 #### 5. Также изменим остальные методов
