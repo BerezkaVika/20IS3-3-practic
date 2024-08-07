@@ -9,22 +9,24 @@
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_1.png)
 
 #### 2. Добавили метод с редактированием записи по определенному индексу
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_2.png)
 
 #### 3. Добавили метод удаления определенной записи по индексу
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_3.png)
 #### 4. Метод поиска элемента по индексу
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_4.png)
 #### 5. Метод подсчета записей c определенной погодой
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_5.png)
 #### 6. Метод метода получения всех записей, который вернёт отсортированный список.
 #### Работа метода должна быть следующая:
 #### a. Если значение параметра null - верните список таким, какой он есть.
 #### b. Если значение параметра 1 - верните отсортированный список по возрастанию.
 #### c. Если значение параметра -1 - верните отсортированный список по убыванию.
 #### d. При всех остальных значениях вернуть ошибку (BadRequest) сообщением “Некорректное значение параметра sortStrategy”
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_6.png)
 ### Конечный результат первогозадания
 #### 7 методов для работы со списком
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_7.png)
 
 
 #### 1. Создаем публичный класс с информацией о погоде
