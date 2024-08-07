@@ -6,7 +6,7 @@
 ##
 
 #### 1. Добовляем метод с добавлением новой записи
-![image](https://user-images.githubusercontent.com/125024527/222701901-a2cced6b-f26a-430a-a795-022c65937d68.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/1_1.png)
 
 #### 2. Добавили метод с редактированием записи по определенному индексу
 
