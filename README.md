@@ -195,7 +195,7 @@ d. При всех остальных значениях вернуть ошиб
 
 #### Добавление проверки на null
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac_9/4.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac_9/4.png)
 
 #### Прохождение тестов
 
