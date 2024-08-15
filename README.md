@@ -125,19 +125,23 @@ d. При всех остальных значениях вернуть ошиб
 #### Создание и настройки .EditorConfig
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/25823bf0-b3e4-4b01-bea1-0a3867c4d45c)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-1.png)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-2.png)
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/b2ab7bce-1297-4834-915f-69bc24816677)
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-3.png)
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/3171e231-d099-4069-8e48-57266a074838)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-4.png)
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/44f73a77-a3a7-4631-b3c4-e73213cab80f)
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/f72bd4aa-8965-4919-ae18-9dab14149a85)
+
+
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-5.png)
 
 
 
