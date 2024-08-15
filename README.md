@@ -130,16 +130,9 @@ d. При всех остальных значениях вернуть ошиб
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-2.png)
 
 
-
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-3.png)
 
-
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-4.png)
-
-
-
-
-
 
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-5.png)
 
@@ -147,26 +140,25 @@ d. При всех остальных значениях вернуть ошиб
 
 ####  Знакомство с dotnet-cli. Использование команд.
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/4a2813b6-7bcb-4392-9e3e-83fa6e2fdbf5)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-6.png)
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/416ceeb1-85ce-4d38-8e9f-d833fddd8980)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-7.png)
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/03fc3aab-84bd-4762-8bf6-3eef89550c4b)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-8.png)
 
 
 
 ####  Добавление пакета (библиотеки) в проект
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/e107f28a-d0cd-442f-afc8-c3eda8ad4afd)
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-9.png)
 
 
 ####  Проверка форматирования кода через командную строку
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/2562977f-1ead-4595-8be4-9d6bc658f1ea)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-10.png)
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/assets/125024527/7459ea0d-4f51-4610-b363-bfe3df603e7e)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-11.png)
 
 
 ## GitHub Actions
@@ -174,8 +166,7 @@ d. При всех остальных значениях вернуть ошиб
 ####  Создание .yml файла
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac7_12.png)
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-12.png)
 
 
 #### Проверка работы GitHub Actions
