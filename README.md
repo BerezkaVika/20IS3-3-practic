@@ -38,13 +38,15 @@ d. При всех остальных значениях вернуть ошиб
 #### 3. Переделываем метод из прошлой работы для вывода всех записей
 ![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_1.png)
 #### 4. Также изменим метод вывода одной записи по индексу
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_4.png)
 #### 5. Также изменим остальные методов
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_5_1.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_5_2.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_5_3.png)
 #### 6. Добавим метод поиски города
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_6.png)
 #### 7. Проверяем все
-
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac%201_2/2_7.png)
 ## Тестирование метода удаления
 ![RemoveAt(14)_Error(more_than_count)](https://user-images.githubusercontent.com/125024527/219578500-39f1603d-bf07-4f93-a443-3b43f106d24d.jpg)
 ##
