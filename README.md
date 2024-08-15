@@ -166,13 +166,13 @@ d. При всех остальных значениях вернуть ошиб
 ####  Создание .yml файла
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7-12.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7_12.png)
 
 
 #### Проверка работы GitHub Actions
 
 
-![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/main/screenshots/prac7_13.png)
+![image](https://github.com/BerezkaVika/20IS3-3-practic/blob/master/screenshots/prac7_13.png)
 
 
 
